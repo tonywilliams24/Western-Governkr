@@ -11,11 +11,11 @@
     - Dropped: Verifies that the course was dropped from term registration and is not included in attempted units.
 
 ***EASIEST TRANSCRIPT TO READ***
-  WGU Unoffical Record of Acheivement:
+ - WGU Unoffical Record of Acheivement:
     - https://github.com/tonywilliams24/Western-Governors-University-Transcripts/blob/master/Unofficial%20Record%20of%20Achievement%20Transcript.pdf
 
-WGU Unoffical Transcript:
+ - WGU Unoffical Transcript:
     - https://github.com/tonywilliams24/Western-Governors-University-Transcripts/blob/master/Unofficial%20Transcript.pdf
 
-ITT Technical Institute Associate Degree Unofficial Transcript:
+ - ITT Technical Institute Associate Degree Unofficial Transcript:
     - https://github.com/tonywilliams24/Western-Governors-University-Transcripts/blob/master/Unofficial-Transcript-Associate.pdf
