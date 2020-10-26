@@ -10,12 +10,12 @@
     - Withdrawn: Represents that the student was withdrawn from the university or course before term completion.
     - Dropped: Verifies that the course was dropped from term registration and is not included in attempted units.
 
-**EASIEST TRANSCRIPT TO READ
+***EASIEST TRANSCRIPT TO READ
 WGU BS Computer Science Unoffical Record of Acheivement Transcript (Currently Attending):
-https://github.com/tonywilliams24/Western-Governors-University-Transcripts/blob/master/Unofficial%20Record%20of%20Achievement%20Transcript.pdf
+    - https://github.com/tonywilliams24/Western-Governors-University-Transcripts/blob/master/Unofficial%20Record%20of%20Achievement%20Transcript.pdf
 
 WGU BS Computer Science Unoffical Transcript (Currently Attending):
-https://github.com/tonywilliams24/Western-Governors-University-Transcripts/blob/master/Unofficial%20Transcript.pdf
+    - https://github.com/tonywilliams24/Western-Governors-University-Transcripts/blob/master/Unofficial%20Transcript.pdf
 
 ITT Technical Institute Associate Degree Unofficial Transcript:
- - https://github.com/tonywilliams24/Western-Governors-University-Transcripts/blob/master/Unofficial-Transcript-Associate.pdf
+    - https://github.com/tonywilliams24/Western-Governors-University-Transcripts/blob/master/Unofficial-Transcript-Associate.pdf
