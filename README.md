@@ -1,5 +1,6 @@
 # Western-Governors-University-Transcripts
  Western Governors University and its state affiliates do not calculate a grade point average (GPA) or class rank.
+ 
  Grading System
  - Official Transcripts include six possible marks:
     - Pass: Certifies successful completion of a course of study. The student has demonstrated the required competencies by passing the final assessment with a grade equivalent of “B” or better or 3.00 grade points on a 4.00 scale.
