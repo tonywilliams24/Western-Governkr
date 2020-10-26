@@ -10,8 +10,7 @@
     - Withdrawn: Represents that the student was withdrawn from the university or course before term completion.
     - Dropped: Verifies that the course was dropped from term registration and is not included in attempted units.
 
-***EASIEST TRANSCRIPT TO READ***
- - WGU Unoffical Record of Acheivement:
+ - WGU Unoffical Record of Acheivement: ***EASIEST TRANSCRIPT TO READ***
     - https://github.com/tonywilliams24/Western-Governors-University-Transcripts/blob/master/Unofficial%20Record%20of%20Achievement%20Transcript.pdf
 
  - WGU Unoffical Transcript:
